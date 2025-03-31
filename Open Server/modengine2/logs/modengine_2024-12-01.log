@@ -1,0 +1,84 @@
+[2024-12-01 10:47:08.851] [modengine] [info] Attempting to load global config at C:\Users\calvi\OneDrive\Desktop\Open Server\modengine2\config.toml
+[2024-12-01 10:47:08.851] [modengine] [info] Attempting to load mod settings config at C:\Users\calvi\OneDrive\Desktop\Open Server\config_armoredcore6.toml
+[2024-12-01 10:47:08.851] [modengine] [info] Local config loaded
+[2024-12-01 10:47:08.851] [modengine] [info] ModEngine version 2.1.0-0924ab36f1311bf84e7e626740b4bf2c0d54909a initializing for Armored Core 6
+[2024-12-01 10:47:08.851] [modengine] [info] Local settings loaded: true, Global settings loaded: false
+[2024-12-01 10:47:08.852] [modengine] [info] Main thread ID: 19172
+[2024-12-01 10:47:09.768] [modengine] [info] Loaded external DLL C:\Users\calvi\OneDrive\Desktop\Open Server\waygate_client.dll
+[2024-12-01 10:47:09.768] [modengine] [warning] External dll C:\Users\calvi\OneDrive\Desktop\Open Server\waygate_client.dll at base address 0x7ffacd920000 is not a modengine extension
+[2024-12-01 10:47:09.770] [modengine] [info] Loaded external DLL C:\Users\calvi\OneDrive\Desktop\Open Server\armoredcore6_alt_saves.dll
+[2024-12-01 10:47:09.770] [modengine] [warning] External dll C:\Users\calvi\OneDrive\Desktop\Open Server\armoredcore6_alt_saves.dll at base address 0x7ffacd090000 is not a modengine extension
+[2024-12-01 10:47:09.770] [modengine] [info] Enabling extension base
+[2024-12-01 10:47:09.770] [modengine] [info] Enabled extension base
+[2024-12-01 10:47:09.770] [modengine] [info] Enabling extension mod_loader
+[2024-12-01 10:47:09.770] [modengine] [info] Installing mod location mod
+[2024-12-01 10:47:09.771] [modengine] [info] Resolved mod path to C:\Users\calvi\OneDrive\Desktop\Open Server\mod
+[2024-12-01 10:47:09.771] [modengine] [info] Enabled extension mod_loader
+[2024-12-01 10:47:09.816] [modengine] [info] Applied 3 hooks
+[2024-12-01 10:47:09.820] [modengine] [info] Starting worker thread
+[2024-12-01 11:09:24.495] [modengine] [info] Destroying
+[2024-12-01 11:09:24.495] [modengine] [info] Destroying
+[2024-12-01 11:09:24.495] [modengine] [info] Destroying
+[2024-12-01 11:09:24.495] [modengine] [info] Destroying
+[2024-12-01 11:09:24.495] [modengine] [info] Destroying
+[2024-12-01 11:09:24.495] [modengine] [info] Destroying
+[2024-12-01 11:09:24.495] [modengine] [info] Destroying
+[2024-12-01 11:09:24.496] [modengine] [info] Destroying
+[2024-12-01 11:09:24.496] [modengine] [info] Destroying
+[2024-12-01 11:09:24.496] [modengine] [info] Destroying
+[2024-12-01 11:11:14.541] [modengine] [info] Attempting to load global config at C:\Users\calvi\OneDrive\Desktop\Open Server\modengine2\config.toml
+[2024-12-01 11:11:14.542] [modengine] [info] Attempting to load mod settings config at C:\Users\calvi\OneDrive\Desktop\Open Server\config_armoredcore6.toml
+[2024-12-01 11:11:14.542] [modengine] [info] Local config loaded
+[2024-12-01 11:11:14.542] [modengine] [info] ModEngine version 2.1.0-0924ab36f1311bf84e7e626740b4bf2c0d54909a initializing for Armored Core 6
+[2024-12-01 11:11:14.542] [modengine] [info] Local settings loaded: true, Global settings loaded: false
+[2024-12-01 11:11:14.542] [modengine] [info] Main thread ID: 15844
+[2024-12-01 11:11:15.452] [modengine] [info] Loaded external DLL C:\Users\calvi\OneDrive\Desktop\Open Server\waygate_client.dll
+[2024-12-01 11:11:15.452] [modengine] [warning] External dll C:\Users\calvi\OneDrive\Desktop\Open Server\waygate_client.dll at base address 0x7ffaed590000 is not a modengine extension
+[2024-12-01 11:11:15.455] [modengine] [info] Loaded external DLL C:\Users\calvi\OneDrive\Desktop\Open Server\armoredcore6_alt_saves.dll
+[2024-12-01 11:11:15.455] [modengine] [warning] External dll C:\Users\calvi\OneDrive\Desktop\Open Server\armoredcore6_alt_saves.dll at base address 0x7ffacd020000 is not a modengine extension
+[2024-12-01 11:11:15.455] [modengine] [info] Enabling extension base
+[2024-12-01 11:11:15.455] [modengine] [info] Enabled extension base
+[2024-12-01 11:11:15.455] [modengine] [info] Enabling extension mod_loader
+[2024-12-01 11:11:15.455] [modengine] [info] Installing mod location mod
+[2024-12-01 11:11:15.456] [modengine] [info] Resolved mod path to C:\Users\calvi\OneDrive\Desktop\Open Server\mod
+[2024-12-01 11:11:15.456] [modengine] [info] Enabled extension mod_loader
+[2024-12-01 11:11:15.501] [modengine] [info] Applied 3 hooks
+[2024-12-01 11:11:15.504] [modengine] [info] Starting worker thread
+[2024-12-01 11:12:06.780] [modengine] [info] Destroying
+[2024-12-01 11:12:06.780] [modengine] [info] Destroying
+[2024-12-01 11:12:06.780] [modengine] [info] Destroying
+[2024-12-01 11:12:06.780] [modengine] [info] Destroying
+[2024-12-01 11:12:06.780] [modengine] [info] Destroying
+[2024-12-01 11:12:06.780] [modengine] [info] Destroying
+[2024-12-01 11:12:06.780] [modengine] [info] Destroying
+[2024-12-01 11:12:06.781] [modengine] [info] Destroying
+[2024-12-01 11:12:06.781] [modengine] [info] Destroying
+[2024-12-01 11:12:06.781] [modengine] [info] Destroying
+[2024-12-01 11:13:48.309] [modengine] [info] Attempting to load global config at C:\Users\calvi\OneDrive\Desktop\Open Server\modengine2\config.toml
+[2024-12-01 11:13:48.309] [modengine] [info] Attempting to load mod settings config at C:\Users\calvi\OneDrive\Desktop\Open Server\config_armoredcore6.toml
+[2024-12-01 11:13:48.309] [modengine] [info] Local config loaded
+[2024-12-01 11:13:48.309] [modengine] [info] ModEngine version 2.1.0-0924ab36f1311bf84e7e626740b4bf2c0d54909a initializing for Armored Core 6
+[2024-12-01 11:13:48.309] [modengine] [info] Local settings loaded: true, Global settings loaded: false
+[2024-12-01 11:13:48.309] [modengine] [info] Main thread ID: 3928
+[2024-12-01 11:13:49.263] [modengine] [info] Loaded external DLL C:\Users\calvi\OneDrive\Desktop\Open Server\waygate_client.dll
+[2024-12-01 11:13:49.263] [modengine] [warning] External dll C:\Users\calvi\OneDrive\Desktop\Open Server\waygate_client.dll at base address 0x7ffaed590000 is not a modengine extension
+[2024-12-01 11:13:49.265] [modengine] [info] Loaded external DLL C:\Users\calvi\OneDrive\Desktop\Open Server\armoredcore6_alt_saves.dll
+[2024-12-01 11:13:49.265] [modengine] [warning] External dll C:\Users\calvi\OneDrive\Desktop\Open Server\armoredcore6_alt_saves.dll at base address 0x7ffabedc0000 is not a modengine extension
+[2024-12-01 11:13:49.265] [modengine] [info] Enabling extension base
+[2024-12-01 11:13:49.266] [modengine] [info] Enabled extension base
+[2024-12-01 11:13:49.266] [modengine] [info] Enabling extension mod_loader
+[2024-12-01 11:13:49.266] [modengine] [info] Installing mod location mod
+[2024-12-01 11:13:49.266] [modengine] [info] Resolved mod path to C:\Users\calvi\OneDrive\Desktop\Open Server\mod
+[2024-12-01 11:13:49.266] [modengine] [info] Enabled extension mod_loader
+[2024-12-01 11:13:49.312] [modengine] [info] Applied 3 hooks
+[2024-12-01 11:13:49.316] [modengine] [info] Starting worker thread
+[2024-12-01 11:14:40.595] [modengine] [info] Destroying
+[2024-12-01 11:14:40.595] [modengine] [info] Destroying
+[2024-12-01 11:14:40.595] [modengine] [info] Destroying
+[2024-12-01 11:14:40.595] [modengine] [info] Destroying
+[2024-12-01 11:14:40.595] [modengine] [info] Destroying
+[2024-12-01 11:14:40.595] [modengine] [info] Destroying
+[2024-12-01 11:14:40.595] [modengine] [info] Destroying
+[2024-12-01 11:14:40.596] [modengine] [info] Destroying
+[2024-12-01 11:14:40.596] [modengine] [info] Destroying
+[2024-12-01 11:14:40.596] [modengine] [info] Destroying
